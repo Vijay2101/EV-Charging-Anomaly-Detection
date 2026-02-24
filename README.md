@@ -30,7 +30,8 @@ The final anomaly label is the union of model-based detection and rule-based det
 └── charging_logs.csv
 ```
 
-##  InstallationCreate a virtual environment 
+##  Installation
+**Create a virtual environment**
 ```   
 python -m venv venv
 source venv/bin/activate      # Mac/Linux
