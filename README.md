@@ -49,7 +49,7 @@ Install dependencies:
 Performs exploratory analysis and saves plots.
 
 ```   
-python eda.py  --input data/charging_logs.csv
+python eda.py  --input charging_logs.csv
 ```
 
 This generates:
