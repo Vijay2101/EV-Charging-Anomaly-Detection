@@ -6,7 +6,7 @@ This project implements a hybrid anomaly detection system for EV charging statio
 
 The system detects abnormal charger behavior using:
 
-- **Isolation Forest** (statistical anomaly detection)
+- **Isolation Forest** 
 - **Domain-informed rule layer**
   - Firmware error codes
   - Negative power readings
